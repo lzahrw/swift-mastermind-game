@@ -36,3 +36,13 @@ swift build
 swift run
 
 ```
+
+Understand the feedback
+
+- B = Black peg (correct digit & position)
+- W = White peg (correct digit, wrong position)
+```bash
+Win or Quit
+Repeat until you receive BBBB (four black pegs), or type exit to quit.
+
+```
