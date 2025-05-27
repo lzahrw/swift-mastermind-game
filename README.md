@@ -1,5 +1,3 @@
-# swift-mastermind-game
-
 
 # Mastermind CLI (Swift)
 
@@ -28,32 +26,13 @@ A simple terminal-based implementation of the classic **Mastermind** code-breaki
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/MastermindCLI.git
-cd MastermindCLI
+git clone https://github.com/YourUsername/mastermind-cli-swift.git
+cd mastermind-cli-swift
 
 # Build the project
 swift build
 
 # Run the game
 swift run
-⚙️ Usage
-Start the game
 
-css
-Copy
-Edit
-Welcome to Mastermind 🕵️
-Your game ID: e3f1a2b4
-Enter a 4-digit guess
-
-yaml
-Copy
-Edit
-Enter your 4-digit guess (digits 1–6), or type 'exit' to quit: 1234
-Feedback: BW
-B = Black peg (correct digit & position)
-
-W = White peg (correct digit, wrong position)
-
-Repeat until you receive BBBB (four black pegs) or type exit.
-
+```
